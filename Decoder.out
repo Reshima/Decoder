@@ -1,0 +1,19 @@
+Script started on Mon 04 Apr 2016 07:03:08 PM PDT
+]0;reshima@garrison:~/cs141[01;32mreshima@garrison[01;34m ~/cs141 $[00m java SHima[K[K[K[Khima_Deo[Kcoder
+Please type out your reference sentence:
+the quick brown fox jumps over the lazy dog
+Please input the sentence you wish to decode:
+36 0 31 36 7 8 25 31 1 33 19 10 11 6 40 42 2 3 36 0 39 40 36 13 14
+Your secret message is: "attack the bridge at dawn"
+]0;reshima@garrison:~/cs141[01;32mreshima@garrison[01;34m ~/cs141 $[00m java Shima_Decoder<Secret1.txt
+Please type out your reference sentence:
+Please input the sentence you wish to decode:
+Your secret message is: "the angels have the phone box"
+]0;reshima@garrison:~/cs141[01;32mreshima@garrison[01;34m ~/cs141 $[00m java Shima_ [KDecoder<Secret2.txt
+Please type out your reference sentence:
+Please input the sentence you wish to decode:
+Your secret message is: "hit that wire with the connecting hook at precisely 88miles per hour"
+]0;reshima@garrison:~/cs141[01;32mreshima@garrison[01;34m ~/cs141 $[00m ext[Kit
+exit
+
+Script done on Mon 04 Apr 2016 07:05:17 PM PDT
